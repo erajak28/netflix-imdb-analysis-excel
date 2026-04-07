@@ -18,15 +18,15 @@ The project includes data cleaning, handling missing values, and creating new de
 - Time Period: 1953 – 2022
 - Content Types: Movies and TV Shows
 
-## Key Columns Used
-id – Unique identifier for each title
-title – Name of the movie or TV show
-type – Movie or TV Show
-release_year – Year of release
-age_certification – Audience age rating (PG, PG-13, R, TV-MA, etc.)
-runtime – Duration in minutes
-imdb_score – Average IMDb rating
-imdb_votes – Number of IMDb votes
+### Key Columns Used
+- `id` – Unique identifier for each title  
+- `title` – Name of the movie or TV show  
+- `type` – Movie or TV Show  
+- `release_year` – Year of release  
+- `age_certification` – Audience age rating (PG, PG-13, R, TV-MA, etc.)  
+- `runtime` – Duration in minutes  
+- `imdb_score` – Average IMDb rating  
+- `imdb_votes` – Number of IMDb votes  
 
 ## 🧹 Data Cleaning & Preparation
 
