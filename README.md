@@ -4,7 +4,7 @@ Excel-based analysis of movies and TV shows over the last 50 years using IMDb da
 This project analyzes movie and TV shows data over the last 50 years using Excel. 
 
 The project includes data cleaning, handling missing values, and creating new derived columns to improve analysis. Using this refined dataset, trends in ratings, audience engagement, runtime, and content characteristics were explored through pivot tables and interactive dashboards.
-[Dashboard](https://github.com/user-attachments/assets/0f617788-013b-40ab-9949-b4e07bb91c77)
+![Dashboard](https://github.com/user-attachments/assets/0f617788-013b-40ab-9949-b4e07bb91c77)
   
 ## 🛠️ Tools Used
 
@@ -47,7 +47,7 @@ The project includes data cleaning, handling missing values, and creating new de
 - Evaluated runtime patterns
 - Analyzed impact of age certification on ratings.
 
-##📈 Key Insights
+## 📈 Key Insights
 - Content production has increased significantly in recent years
 - IMDb ratings have slightly declined over time
 - Audience engagement has grown rapidly
