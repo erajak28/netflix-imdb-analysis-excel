@@ -1,5 +1,3 @@
-<img width="1592" height="645" alt="image" src="https://github.com/user-attachments/assets/0f617788-013b-40ab-9949-b4e07bb91c77" /># netflix-imdb-analysis-excel
-Excel-based analysis of movies and TV shows over the last 50 years using IMDb data
 ## 📌 Overview
 This project analyzes movie and TV shows data over the last 50 years using Excel. 
 
