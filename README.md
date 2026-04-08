@@ -52,6 +52,10 @@ The project includes data cleaning, handling missing values, and creating new de
 - Movie runtime has remained consistent
 - Broader audience content tends to have higher ratings
 
+## 📁 Project File
+- You can download the full Excel project here:
+- [project File](https://github.com/erajak28/netflix-imdb-analysis-excel/blob/main/netflix-imdb-analysis-Report.xlsx)
+
 ## 🚀 Conclusion
 
 This project demonstrates end-to-end data analysis using Excel, including data cleaning, feature engineering, visualization, and insight generation. It highlights how raw data can be transformed into meaningful insights through structured analysis.
